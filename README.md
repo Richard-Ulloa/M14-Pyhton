@@ -1,1 +1,1 @@
-# Mis codigos de python, recomiendo para un "WARMUP".
+# Mis codigos de python, recomiendo para un "WARM UP".
